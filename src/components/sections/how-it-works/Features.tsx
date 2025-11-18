@@ -1,3 +1,5 @@
+'use client';
+
 import React from 'react';
 import { Check, Zap, Shield, Globe, Palette, Code, Users, Rocket } from 'lucide-react';
 

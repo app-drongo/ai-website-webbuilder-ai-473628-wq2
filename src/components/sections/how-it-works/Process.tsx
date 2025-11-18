@@ -1,3 +1,5 @@
+'use client';
+
 import React from 'react';
 import { ArrowRight, MessageSquare, Palette, Globe, CheckCircle } from 'lucide-react';
 
